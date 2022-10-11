@@ -6,9 +6,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucysuxo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- <img align="right" alt="Lu-pic" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1006363643341979721/1029185385802240100/giflucy.gif">
+
+<div align="center">
+
+  ![Snake animation](https://github.com/lucysuxo/lucysuxo/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
-  <div>
-    ![Snake animation](https://github.com/lucysuxo/lucysuxo/blob/output/github-contribution-grid-snake.svg)
-  </div>
+ <img align="right" alt="Lu-pic" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1006363643341979721/1029185385802240100/giflucy.gif">
+</div>
