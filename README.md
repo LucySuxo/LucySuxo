@@ -1,4 +1,4 @@
-### Olá! Eu sou a Lucy Suxo👋
+### Olá! Eu sou a Lucy👋
 
 <div align="center">
   <a href="https://github.com/lucysuxo">
