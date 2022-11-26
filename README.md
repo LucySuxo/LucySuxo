@@ -2,7 +2,7 @@
  
 
 
-![](https://komarev.com/ghpvc/?username=LucySuxo)
+![](https://komarev.com/ghpvc/?username=LucySuxo&color=ff69b4&style=flat&label=Visitas)
 
                               🌙 About me 🌙
 
