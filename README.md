@@ -1,6 +1,9 @@
 ![Logo](https://cdn.discordapp.com/attachments/1006363643341979721/1045852328500150272/zyro-image_1.png)
  
 
+
+![](https://komarev.com/ghpvc/?username=LucySuxo)
+
                               🌙 About me 🌙
 
 
