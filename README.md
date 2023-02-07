@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucy</h1>
 <h3 align="center">Software Development Student</h3>
 
-<img align="right" width="400px" src="https://cdn.discordapp.com/attachments/1033185850672038010/1072339908015960104/Code_typing-bro.png">
+<img align="right" width="350px" src="https://cdn.discordapp.com/attachments/1033185850672038010/1072339908015960104/Code_typing-bro.png">
 
 - 🤓 Languages **Portuguese (Native), Spanish (Native) and English (intermediate)**
 
-- 👨‍💻 Student at Puc Minas **ADS**
-
 - 🌱 I’m currently learning **Node.js**
+
+- 👨‍💻 Student at Puc Minas **ADS**
 
 - 👨‍💻 Student at Univesp **Computer Engineering**
 
