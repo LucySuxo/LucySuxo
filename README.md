@@ -26,6 +26,8 @@
 
 
 <div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucysuxo&theme=dark&show_icons=true)
 
   ![Snake animation](https://github.com/lucysuxo/lucysuxo/blob/output/github-contribution-grid-snake.svg)
 
