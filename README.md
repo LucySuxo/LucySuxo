@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 Student at Puc Minas **ADS**
-
-- 👨‍💻 Student at Univesp **Computer Engineering**
-
 - 📗 Participant of **O Boticario.tech 2023**
 
 - 📫 How to reach me [lucysuxo@yahoo.com](lucysuxo@yahoo.com)
