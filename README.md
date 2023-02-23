@@ -9,8 +9,6 @@
 
 - 📗 Participant of **O Boticario.tech 2023**
 
-- 📫 How to reach me [lucysuxo@yahoo.com](lucysuxo@yahoo.com)
-
 - ⚡ Hobbie **Create filters for instagram**
 
 <h3 align="left">Connect with me:</h3>
