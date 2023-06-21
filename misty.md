@@ -15,9 +15,6 @@
 
 🔅 FullStack Java developer (Generation Brazil)
 
-🔅 Computer engineering (loading...) - UNVP
-
-🔅 Information System (loading...)- PUC
 
 
                                 🌙 Links 🌙
