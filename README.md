@@ -2,6 +2,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/lucysuxo/lucysuxo/blob/output/github-contribution-grid-snake.svg)
+<img src="https://streak-stats.demolab.com/?user=lucysuxo&theme=sunset-gradient&border=fff&dates=FFF" alt="lucysuxo github contribuitions" />
 
 </div>
